@@ -1,8 +1,16 @@
-title: 'Introduction to Machine Learning'
-description: Welcome to ECE421
+title: ECE 421
+description: Introduction to Machine Learning
 theme: just-the-docs
 
 url: https://erfanmeskar.github.io/ece421
 
 aux_links:
   Template Repository: https://erfanmeskar.github.io/ece421
+
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
+
+callouts:
+  warning:
+    title: Announcement
+    color: red
