@@ -1,11 +1,14 @@
-title: ECE 421
+title: ECE 421 Fall 2024
 description: Introduction to Machine Learning
 theme: just-the-docs
 
 url: https://erfanmeskar.github.io/ece421
 
 aux_links:
-  Template Repository: https://erfanmeskar.github.io/ece421
+  Piazza: https://erfanmeskar.github.io/ece421
+  Quercus: https://erfanmeskar.github.io/ece421
+  Crowdmark: https://erfanmeskar.github.io/ece421
+  Feedback Form: https://forms.office.com/r/69WEby3MtD?origin=lprLink
 
 # Color scheme supports "light" (default) and "dark"
 color_scheme: dark
